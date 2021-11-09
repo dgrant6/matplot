@@ -1,3 +1,5 @@
+#github wasn't loading .ipynb file so I just pasted my code not as a file
+
 import seaborn as sns
 import matplotlib.pyplot as plt 
 import os 
